@@ -27,7 +27,7 @@
 <!--[MySQL]()  
 [REST and SOAP API testing via Postman]()    
 [Android app testing]() --> 
-[Тестирование мобильного приложения](https://github.com/ta-eremenko/mobile_testing)
+[Тестирование мобильного приложения](https://github.com/ta-eremenko/mobile_testing)   
 [Git](https://github.com/ta-eremenko/git.git)  
 
 
