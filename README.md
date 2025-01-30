@@ -38,6 +38,7 @@
     <a href="https://t.me/ta_eremenko">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram"/>
     </a>
+    <a href= "www.linkedin.com/in/ta-eremenko"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
      <a href="mailto:ta.eremenkoo@gmail.com"> 
         <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/>
     </a>
